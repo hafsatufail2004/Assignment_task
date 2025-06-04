@@ -1,3 +1,3 @@
 # Assignments
 
-*** THis repo conatin basics Typescript projects.***
+***THis repo conatin basics Typescript projects.***
